@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "du-comparison",
+			"path": "."
+		},
+		{
+			"name": "German-Political-Speeches-Corpus",
+			"path": "../../../../../../../Downloads/German-Political-Speeches-Corpus"
+		}
+	],
+	"settings": {}
+}
