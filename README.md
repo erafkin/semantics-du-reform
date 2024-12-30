@@ -1,9 +1,10 @@
-# Du-reform in German and Swedish
-Code for final paper for Semantics & Pragmatics. The graphs generated are in [german.ipynb](./german.ipynb) and [swedish.ipynb](./swedish.ipynb)
+# Pronominal reform in T/V languages
+Code for final paper for Semantics & Pragmatics. Corpus exploration in [german.ipynb](./german.ipynb), [swedish.ipynb](./swedish.ipynb), and [spanish.ipynb](./spanish.ipynb)
 
 ## Notes:
 - To run the German notebook you need the data from here: [https://politische-reden.eu/](https://politische-reden.eu/)
-- To run the swedish notebook you dont need anything (the corpus is downloaded via the tool `pyriksdagen`)
+- To run the Spanish notebook you need data from here: [https://github.com/lirondos/discursos-de-navidad](https://github.com/lirondos/discursos-de-navidad)
+- To run the Swedish notebook you dont need anything (the corpus is downloaded via the tool `pyriksdagen`)
 ## setup
 ```bash
 python3 -m venv venv
